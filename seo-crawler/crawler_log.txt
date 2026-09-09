@@ -1,0 +1,70 @@
+Đang quét các bài viết trong danh mục: https://viomiviet.vn/tin-tuc
+Tìm thấy 34 bài viết tiềm năng.
+Đang cào bài: https://viomiviet.vn/tin-tuc/tivi-xiaomi-redmi-apro-43-inch-cau-hinh-cao-day-du-tinh-nang.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/page/chinh-sach-doi-tra-hang-hoa.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/tivi-xiaomi-apro-75-inch-cau-hinh-cao-man-hinh-4k-gia-re.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/So-sanh-va-danh-gia-tivi-xiaomi-redmi-a-pro-65-va-s-mini-led-65-su-khac-biet-lieu-co-qua-lon.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/tivi-xiaomi-redmi-max-85-inch-su-lua-chon-hoan-hao-cho-phong-khach-hien-dai.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/tivi-xiaomi-s-85-mini-led-co-dang-mua-trong-cuoi-nam-2024.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/page/chinh-sach-van-chuyen-giao-nhan.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/top-3-tivi-xiaomi-ban-chay-nhat-nam-2023-chat-luong-sieu-ngon-gia-sieu-re.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/mo-hop-danh-gia-nhanh-tivi-xiaomi-a50-tivi-4k-gia-re.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/may-say-quan-ao-xiaomi
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/So-sanh-khac-biet-giua-mau-tivi-xiaomi-ea-pro-65-inch-2023-va-2024.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/xiaomi-chinh-thuc-ra-mat-mi-tv6-oled-voi-hai-kich-thuoc-man-hinh-55-inch-va-65-inch.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/Top-tinh-nang-noi-bat-cua-tivi-xiaomi-a55-android-tv-muot-ma-gia-cuc-tot.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/may-giat-xiaomi-viomi-chinh-hang-gia-re-nhat-viet-nam
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/page/chinh-sach-bao-hanh.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/so-sanh-khac-biet-giua-mau-tivi-xiaomi-ea65-va-xiaomi-ea-pro-65-inch.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/do-gia-dung-thong-minh-xiaomi-viomi
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/Danh-gia-tivi-xiaomi-ea-pro-55-inch-2024-co-dang-mua-trong-tam-gia.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/5-ly-do-nen-mua-tivi-xiaomi-ea-pro-65-inch-2024-gia-r%E1%BA%BB.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/page/chinh-sach-bao-mat-thong-tin.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/3-mau-tivi-xiaomi-75-inch-ma-ban-nen-tham-khao-o-thoi-diem-hien-tai.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/kham-pha-thiet-ke-va-cong-nghe-dinh-cao-cua-tivi-xiaomi-redmi-max-85-inch.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/khoa-cua-thong-minh-xiaomi-viomi
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/page/tra-gop-qua-the-tin-dung.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/huong-dan-ki-thuat
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tivi-xiaomi-100-inch
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/quat-thong-minh-xiaomi
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/so-sanh-hai-phien-ban-tivi-xiaomi-eapro-va-redmi-ai-65-inch.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/page/huong-dan-mua-hang-tu-xa.html
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/may-rua-bat-xiaomi-viomi-gia-re-tai-ha-noi
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/So-sanh-tivi-xiaomi-ea43-noi-dia-voi-p1-43-4k-chinh-hang-chenh-nhau-2-cu-mua-tivi-nao.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/tin-tuc/tin-cong-nghe
+Dữ liệu rỗng, bỏ qua.
+Đang cào bài: https://viomiviet.vn/tin-tuc/Tivi-xiaomi-65-inch-2024-day-la-2-mau-moi-nhat-cau-hinh-cao.html
+❌ Lỗi khi lưu vào D1 (Có thể bài này đã được cào trước đó): [{'code': 7500, 'message': 'UNIQUE constraint failed: seo_articles.source_url: SQLITE_CONSTRAINT (extended: SQLITE_CONSTRAINT_UNIQUE)'}]
+Đang cào bài: https://viomiviet.vn/may-loc-khong-khi-chinh-hang
+Dữ liệu rỗng, bỏ qua.
